@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Melani! 👋
 
-<!--
-**melaani-123/melaani-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year Electrical and Computer Engineering student ('27 + PEY Co-op) at the [University of Toronto](https://www.utoronto.ca/), pursuing minors in **AI Engineering** and **Sustainable Energy**, alongside a **Rotman Commerce Business Certificate**. 
 
-Here are some ideas to get you started:
+I specialize in **embedded firmware**, **real-time systems (RTOS/DSP)**, and **power grid automation**, with over 18 months of industrial experience developing protection firmware, communication stacks, and automated test fixtures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect!
+
+Check out my portfolio below to see more of what I've worked on:
+
+- Grid Vulnerability Platform Under Extreme Weather (Python, OpenDSS, GIS)
+- Real-Time Firmware & TDD Middleware Test Suites (11k+ lines CppUTest, MockSupport)
+- Low-Level Device Drivers & Protocols (Modbus RTU over RS-232/RS-485, SPI, I2C, UART)
+- Secondary Injection Test Automation (C++, CMEngine API, Omicron CMC356)
+- HF-Band Radio Transceiver & ATmega Control Interface (C, Altium, PLL, UART/CAT)
+- Hardware FPGA Atari Pong Engine (Verilog custom ALU, VGA driver, PS/2, Audio)
+- Gen 12 Solar Car IMU Sensor Board & Battery Simulation (Blue Sky Solar Racing)
+- Deep Learning & ML Classifiers (PyTorch, TensorFlow, CNN/ANN Image Classification)
